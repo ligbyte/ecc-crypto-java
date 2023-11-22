@@ -1,6 +1,5 @@
 # **eos-crypto-java 使用指南**
 
-源码：https://github.com/yanjunli/eos-crypto-java
 
 eos-crypto-java 目前可以支持 基于 ECC+AES 的加解密方式。 
 
